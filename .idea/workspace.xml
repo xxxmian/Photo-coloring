@@ -13,79 +13,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pix2pix$train.coverage" NAME="train Coverage Results" MODIFIED="1560057596980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2pGAN" />
+    <SUITE FILE_PATH="coverage/pix2pix$train.coverage" NAME="train Coverage Results" MODIFIED="1560058612223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2pGAN" />
     <SUITE FILE_PATH="coverage/pix2pix$try.coverage" NAME="try Coverage Results" MODIFIED="1558848242804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2pGAN" />
     <SUITE FILE_PATH="coverage/pix2pix$main_pix2pixgan.coverage" NAME="main_pix2pixgan Coverage Results" MODIFIED="1558851075459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pix2pixBEGAN.pytorch" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="generated_epoch_00000000_iter00000010.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000010.png">
+        <entry file="file://$PROJECT_DIR$/pix2pixBEGAN.pytorch/sample/generated_epoch_00000000_iter00000010.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000020.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000020.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000030.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000030.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000040.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000040.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000050.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000050.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000060.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000060.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000070.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000070.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000080.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000080.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000090.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000090.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_epoch_00000000_iter00000110.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000110.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p2pGAN/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4576">
+              <caret line="208" column="10" lean-forward="false" selection-start-line="208" selection-start-column="10" selection-end-line="208" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -166,17 +115,6 @@
               <item name="pix2pix" type="462c0819:PsiDirectoryNode" />
               <item name="p2pGAN" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pix2pix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pix2pix" type="462c0819:PsiDirectoryNode" />
-              <item name="pix2pixBEGAN.pytorch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pix2pix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pix2pix" type="462c0819:PsiDirectoryNode" />
-              <item name="pix2pixBEGAN.pytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IJCAI2018/Faster-RCNN_TF_wbh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/p2pGAN" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -298,11 +236,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33298537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114822544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -507,16 +445,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p2pGAN/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="208" column="10" lean-forward="false" selection-start-line="208" selection-start-column="10" selection-end-line="208" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000010.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -528,16 +456,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000030.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000040.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000050.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -557,7 +475,17 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000090.png">
+    <entry file="file://$PROJECT_DIR$/pix2pixBEGAN.pytorch/sample/generated_epoch_00000003_iter00001500.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pix2pixBEGAN.pytorch/sample/generated_epoch_00000002_iter00001000.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pix2pixBEGAN.pytorch/sample/generated_epoch_00000001_iter00000500.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -565,6 +493,36 @@
     <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000110.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000090.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000050.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2pGAN/sample/generated_epoch_00000000_iter00000040.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pix2pixBEGAN.pytorch/sample/generated_epoch_00000000_iter00000010.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2pGAN/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="208" column="10" lean-forward="false" selection-start-line="208" selection-start-column="10" selection-end-line="208" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
